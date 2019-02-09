@@ -1,0 +1,119 @@
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Армения ТВ", Armenia TV 2 Армения)
+http://ott-cdn.ucom.am/s22/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Аrmenia TV 3
+http://ott-cdn.ucom.am/s42/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Armenia TV 4
+http://ott-cdn.ucom.am/s32/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Аrmenia TV 5
+http://ott-cdn.ucom.am/s46/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Аrmenia TV 6
+http://ott-cdn.ucom.am/s66/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 21 HD
+http://ott-cdn.ucom.am/s10/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARM
+http://ott-cdn.ucom.am/s9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARM NEWS/KINO
+http://ott-cdn.ucom.am/s11/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ATV HD
+http://ott-cdn.ucom.am/s8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ATV TV 1
+http://ott-cdn.ucom.am/s48/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ATV TV 2
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1,Cineman Армения фильмы
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:-1,Hay kino армения фильмы
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1,Armenia Comedy фильмы
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1,Tuntunik Армения Мульт
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:-1,Tava ATV армения
+http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:-1,Filmzone ATV Армения
+http://ott-cdn.ucom.am/s48/index.m3u8
+#EXTINF:-1,Bazmoc ATV Армения мульт
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1,U!Premium армения
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:-1,Киноман ATV
+http://ott-cdn.ucom.am/s94/index.m3u8
+
+#EXTINF:-1,1 Premium
+http://ott-cdn.ucom.am/s83/01.m3u8
+
+#EXTINF:-1,2 Hay kino
+http://ott-cdn.ucom.am/s22/01.m3u8
+
+#EXTINF:-1,21 TV
+http://ott-cdn.ucom.am/s10/01.m3u8
+
+#EXTINF:-1,3 Jan
+http://ott-cdn.ucom.am/s42/01.m3u8
+
+#EXTINF:-1,4 Comedy
+http://ott-cdn.ucom.am/s32/01.m3u8
+
+#EXTINF:-1,5 Tuntunik
+http://ott-cdn.ucom.am/s46/01.m3u8
+#EXTINF:-1,H1
+http://ott-cdn.ucom.am/s1/01.m3u8
+
+#EXTINF:-1,H1 HD
+http://ott-cdn.ucom.am/hdtest/01.m3u8
+
+#EXTINF:-1,Shant
+http://ott-cdn.ucom.am/s3/01.m3u8
+
+#EXTINF:-1,Shoxakat
+http://ott-cdn.ucom.am/s13/01.m3u8
+#EXTINF:-1,H2
+http://ott-cdn.ucom.am/s2/01.m3u8
+
+#EXTINF:-1,H3
+http://ott-cdn.ucom.am/s12/01.m3u8
+
+#EXTINF:-1,Kentron
+http://ott-cdn.ucom.am/s5/01.m3u8
+#EXTINF:-1,6 Cineman
+http://ott-cdn.ucom.am/s66/01.m3u8
+
+#EXTINF:-1,AR
+http://ott-cdn.ucom.am/s9/01.m3u8
+
+#EXTINF:-1,Ararat
+http://ott-cdn.ucom.am/s6/01.m3u8
+
+#EXTINF:-1,ArmNews
+http://ott-cdn.ucom.am/s11/01.m3u8
+
+#EXTINF:-1,Armenia TV
+http://ott-cdn.ucom.am/s4/01.m3u8
+
+#EXTINF:-1,Atv
+http://ott-cdn.ucom.am/s8/01.m3u8
+
+#EXTINF:-1,Atv Bazmoc
+http://ott-cdn.ucom.am/s74/01.m3u8
+
+#EXTINF:-1,Atv Filmzon
+http://ott-cdn.ucom.am/s48/01.m3u8
+
+#EXTINF:-1,Atv Hay
+http://ott-cdn.ucom.am/s73/01.m3u8
+
+#EXTINF:-1,Atv Kinoman
+http://ott-cdn.ucom.am/s94/01.m3u8
+
+#EXTINF:-1,Atv Tava
+http://ott-cdn.ucom.am/s53/01.m3u8
